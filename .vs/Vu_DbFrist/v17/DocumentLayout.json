@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\controllers\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\controllers\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\models\\dbcompanymanagerdbfirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\models\\dbcompanymanagerdbfirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|c:\\users\\caong\\source\\repos\\vu_dbfrist\\vu_dbfrist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{710D56C5-F53E-41D4-9632-2327CAACA917}|Vu_DbFrist\\Vu_DbFrist.csproj|solutionrelative:vu_dbfrist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Views\\Staffs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Views\\Staffs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Views\\Staffs\\Index.cshtml",
+              "RelativeToolTip": "Vu_DbFrist\\Views\\Staffs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:21:30.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Vu_DbFrist\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:21:17.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Views\\Companies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Views\\Companies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Views\\Companies\\Index.cshtml",
+              "RelativeToolTip": "Vu_DbFrist\\Views\\Companies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:21:04.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Controllers\\Main.cs",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Controllers\\Main.cs",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Controllers\\Main.cs",
+              "RelativeToolTip": "Vu_DbFrist\\Controllers\\Main.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAADaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:35:06.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Models\\Staff.cs",
+              "RelativeToolTip": "Vu_DbFrist\\Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:42:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Views\\Main\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Views\\Main\\Index.cshtml",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Views\\Main\\Index.cshtml",
+              "RelativeToolTip": "Vu_DbFrist\\Views\\Main\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T11:36:11.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffsController.cs",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Controllers\\StaffsController.cs",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Controllers\\StaffsController.cs",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Controllers\\StaffsController.cs",
+              "RelativeToolTip": "Vu_DbFrist\\Controllers\\StaffsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:34:42.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Vu_DbFrist\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:34:17.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Vu_DbFrist\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:33:21.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbCompanyManagerDbfirstContext.cs",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Models\\DbCompanyManagerDbfirstContext.cs",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Models\\DbCompanyManagerDbfirstContext.cs",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Models\\DbCompanyManagerDbfirstContext.cs",
+              "RelativeToolTip": "Vu_DbFrist\\Models\\DbCompanyManagerDbfirstContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:29:17.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Program.cs",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\Program.cs",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\Program.cs",
+              "RelativeToolTip": "Vu_DbFrist\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:25:58.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\appsettings.json",
+              "RelativeDocumentMoniker": "Vu_DbFrist\\appsettings.json",
+              "ToolTip": "C:\\Users\\caong\\source\\repos\\Vu_DbFrist\\Vu_DbFrist\\appsettings.json",
+              "RelativeToolTip": "Vu_DbFrist\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T11:24:24.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+﻿ 
+ 
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Nhân viên nam thuộc phòng Marketing và có tuổi từ 30 đến 40.</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+              ID   
+            </th>
+            <th>
+               Name 
+            </th>
+            <th>
+              Gender   
+            </th>
+            <th>
+               Age
+            </th>
+            <th>
+                Salary
+            </th>
+            <th>Department name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var staff in ViewBag.Inf)
+        {
+            <tr>
+                <td>@staff.StaffId</td>
+                <td>@staff.StaffName</td>
+                <td>@staff.Gender</td>
+                <td>@staff.Age</td>
+                <td>@staff.Salary</td>
+                <td>@staff.DepartmentName</td>
+                <!-- Hiển thị các thuộc tính khác tùy ý -->
+            </tr>
+        }
+}
+    </tbody>
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vu_DbFrist.props" />
+</Project>
